@@ -1,0 +1,93 @@
+{
+  "Internships": [
+    {
+      "id": 1,
+      "title": "Data Scientist Intern",
+      "company": "Acme Inc.",
+      "position": "Software Developer Intern",
+      "location": "San Francisco, CA",
+      "duration": "3 months",
+      "description": "Acme Inc. is seeking a talented software developer intern to join our team. The intern will work on a variety of projects, including developing and maintaining software applications, and collaborating with team members to design and implement new features.",
+      "requirements": [
+        "Current enrollment in a computer science or related degree program",
+        "Proficient in one or more programming languages (e.g., Java, Python, C++)",
+        "Familiarity with software development tools (e.g., Git, JIRA, Eclipse)",
+        "Strong problem-solving and analytical skills",
+        "Excellent written and verbal communication skills",
+        "Ability to work independently and as part of a team"
+      ],
+      "applyUrl": "https://www.example.com/apply"
+    },
+    {
+      "id": 2,
+      "title": "Developer Intern",
+      "company": "XYZ Corp",
+      "position": "Marketing Intern",
+      "location": "New York, NY",
+      "duration": "6 months",
+      "description": "XYZ Corp is seeking a marketing intern to assist our team with various tasks, including conducting market research, developing marketing materials, and coordinating marketing campaigns.",
+      "requirements": [
+        "Current enrollment in a marketing or related degree program",
+        "Strong written and verbal communication skills",
+        "Familiarity with marketing tools (e.g., HubSpot, Google Analytics, Mailchimp)",
+        "Ability to work independently and as part of a team",
+        "Excellent organizational and time management skills"
+      ],
+      "applyUrl": "https://www.example.com/apply"
+    },
+    {
+      "id": 3,
+      "title": "Marketing Intern",
+      "company": "ABC Co.",
+      "position": "Graphic Design Intern",
+      "location": "Los Angeles, CA",
+      "duration": "4 months",
+      "description": "ABC Co. is seeking a graphic design intern to assist our team with various design projects, including creating marketing materials, designing logos and branding materials, and working on user interface design.",
+      "requirements": [
+        "Current enrollment in a graphic design or related degree program",
+        "Proficient in Adobe Creative Suite (e.g., Photoshop, Illustrator, InDesign)",
+        "Strong creative and conceptual thinking abilities",
+        "Excellent communication and collaboration skills",
+        "Ability to work independently and as part of a team"
+      ],
+      "applyUrl": "https://www.example.com/apply"
+    },
+    {
+      "id": 4,
+      "title": "Marketing Intern",
+      "company": "XYZ Inc.",
+      "location": "San Francisco, CA",
+      "duration": "3 months",
+      
+      "description": "Join our marketing team and help create campaigns that drive growth and engagement for our customers.",
+      "requirements": [
+        "Strong communication and writing skills",
+        "Experience with social media and email marketing",
+        "Knowledge of SEO and SEM"
+      ],
+      "applyUrl": "https://www.example.com/apply"
+      
+    },
+    {
+      "id": 5,
+      "title": "Software Engineer Intern",
+      "company": "ABC Corp.",
+      "location": "New York, NY",
+      "duration": "6 months",
+      
+      "description": "Join our engineering team and help build and scale our next-generation products.",
+      "requirements": [
+        "Strong programming skills in at least one language",
+        "Familiarity with web development frameworks",
+        "Experience with SQL and NoSQL databases"
+      ],
+      "applyUrl": "https://www.example.com/apply"
+      
+    }
+  ]
+}
+
+
+
+
+
